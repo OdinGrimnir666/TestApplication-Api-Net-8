@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\models\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\models\\dto\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\testaplication net 7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\testaplication net 7.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\infrastructure\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repository\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\infrastructure\\database\\applicationconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68F72C20-16CC-43B8-BB24-CD414C7FEC96}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\database\\applicationconext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9EF6FDD-90DE-4112-81F9-22085C868B61}|Domain\\Domain.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9EF6FDD-90DE-4112-81F9-22085C868B61}|Domain\\Domain.csproj|solutionrelative:domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|c:\\users\\nlingut\\source\\repos\\testaplication net 7\\testaplication net 7\\migrations\\20240117162815_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426605E8-5DE1-46B4-9EC4-A4AFEBE532C2}|TestAplication Net 7\\TestAplication Net 7.csproj|solutionrelative:testaplication net 7\\migrations\\20240117162815_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 163,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2047780995:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{f5cd1b51-c771-5648-966f-646d419b1e7c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Models\\DTO\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\Models\\DTO\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Models\\DTO\\PersonDTO.cs",
+              "RelativeToolTip": "TestAplication Net 7\\Models\\DTO\\PersonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T17:03:45.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240117162815_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Migrations\\20240117162815_InitialCreate.cs",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\Migrations\\20240117162815_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Migrations\\20240117162815_InitialCreate.cs",
+              "RelativeToolTip": "TestAplication Net 7\\Migrations\\20240117162815_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:28:16.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:20:32.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\WeatherForecast.cs",
+              "RelativeToolTip": "TestAplication Net 7\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:26:33.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "TestAplication Net 7\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAABAAAAAAj5mZmRkVwB0AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:47:18.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestAplication Net 7.csproj",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\TestAplication Net 7.csproj",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\TestAplication Net 7.csproj",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\TestAplication Net 7.csproj",
+              "RelativeToolTip": "TestAplication Net 7\\TestAplication Net 7.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-01-17T16:15:25.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\Repository\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\Repository\\IPersonRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:46:06.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Program.cs",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\Program.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Program.cs",
+              "RelativeToolTip": "TestAplication Net 7\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:20:53.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TestAplication Net 7\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAA/f///38ZwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-17T16:51:07.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\appsettings.json",
+              "RelativeDocumentMoniker": "TestAplication Net 7\\appsettings.json",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\TestAplication Net 7\\appsettings.json",
+              "RelativeToolTip": "TestAplication Net 7\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-01-17T16:20:46.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationConext.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\DataBase\\ApplicationConext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\DataBase\\ApplicationConext.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Infrastructure\\DataBase\\ApplicationConext.cs",
+              "RelativeToolTip": "Infrastructure\\DataBase\\ApplicationConext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:15:47.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Domain\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\NLingut\\source\\repos\\TestAplication Net 7\\Domain\\Models\\Person.cs",
+              "RelativeToolTip": "Domain\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAANDMzMzP7vwwAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-17T16:07:47.037Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

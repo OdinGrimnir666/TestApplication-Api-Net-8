@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestAplication Net 7.props" />
+</Project>
